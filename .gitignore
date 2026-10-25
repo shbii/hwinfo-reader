@@ -1,0 +1,10 @@
+# personal logs and exports - may contain hardware/app details
+*.csv
+*.CSV
+cleaned/
+
+# HWiNFO registry backups
+*.reg
+
+__pycache__/
+*.pyc

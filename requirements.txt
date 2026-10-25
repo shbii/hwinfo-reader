@@ -1,0 +1,2 @@
+# Only needed for process_logger.py - the reader and window use the standard library.
+psutil>=5.9
